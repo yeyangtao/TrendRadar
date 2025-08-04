@@ -71,3 +71,5 @@ platforms:
     name: "知乎"
   - id: "v2ex"
     name: "v2ex"
+  - id: "coolapk"
+    name: "酷安"
